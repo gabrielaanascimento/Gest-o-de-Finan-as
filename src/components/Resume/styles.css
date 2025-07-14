@@ -1,0 +1,16 @@
+.containerResume {
+    height: 200px;
+    margin-top: -45px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    width: 100vw;
+}
+
+.itens {
+    display: flex;
+    justify-content: space-between;
+    height: 100%;
+    width: 60%;
+}
